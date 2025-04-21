@@ -99,6 +99,6 @@ The GitHub repository contains:
 ## Acknowledgements
 
 - Code Institute for framework and support
-- OpenAI’s ChatGPT for AI assistance
+- OpenAI's ChatGPT for AI assistance
 - World Bank for reliable public data
 - Peer learners and mentors for feedback and encouragement
